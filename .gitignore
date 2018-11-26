@@ -9,5 +9,5 @@ logs/
 
 coverage/
 dist/
-config/
+#config/
 coverage/
