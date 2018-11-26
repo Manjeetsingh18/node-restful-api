@@ -1,0 +1,13 @@
+.DS_Store
+.nodemonignore
+node_modules/
+
+# General
+# =======
+*.log
+logs/
+
+coverage/
+dist/
+config/
+coverage/
