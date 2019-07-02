@@ -1,7 +1,7 @@
 module.exports = {
   env: 'development',
   db: {
-    uri: 'mongodb://' + (process.env.DB_1_PORT_27017_TCP_ADDR || 'localhost') + '/express-boilerplate'
+    uri: 'mongodb+srv://LRest:LRest@cluster0-osap1.mongodb.net/test?retryWrites=true&w=majority'
   },
   port: process.env.PORT || 4000,
   secret: process.env.SECRET || 'ENCRYPTED_KEY',
