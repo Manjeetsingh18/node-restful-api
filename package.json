@@ -29,7 +29,7 @@
     "express-unless": "^0.5.0",
     "express-validation": "^1.0.2",
     "express-winston": "^2.3.0",
-    "googleapis": "^22.2.0",
+    "googleapis": "^59.0.0",
     "helmet": "^3.12.1",
     "http-status": "^1.1.2",
     "joi": "^13.4.0",
